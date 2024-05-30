@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of your README that includes information about the CSS theming with CSS variables and how to change the API for the bot:
-
 ---
 
 # Sage Bot SGWS 1
@@ -144,5 +142,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - [Troubleshooting `npm run build` fails to minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ---
-
-This updated README includes instructions on how to customize the chatbot's theme using CSS variables and how to change the API endpoint for the bot.
